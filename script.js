@@ -52,7 +52,6 @@ function iniciarJogo() {
         }
     }
 
-
     criarBG();
     criarCobrinha();
     drawFood();
